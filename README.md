@@ -1,7 +1,7 @@
 
 # API-3.0-Java
 
-#### Fork feito para corrigir um pequeno problema na criação da requisição de venda.
+#### Fork criado para corrigir um pequeno problema na criação da requisição de venda.
 
 SDK API-3.0 Java
 
